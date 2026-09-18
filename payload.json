@@ -1,1 +1,28 @@
-PLACEHOLDER
+{
+  "videos": {
+    "1": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042807_1e9dd82b-8476-4ae4-87a4-e7fa7a464808.mp4",
+    "2": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042807_85b11842-0cb8-488f-8569-4baba06d922e.mp4",
+    "3": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042807_144d7f06-4303-44a7-91c9-1621918ae84b.mp4",
+    "4": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042827_fdeeec3d-d7f4-413f-8129-8251396032e5.mp4",
+    "5": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042827_71a1bd3e-1f1a-4044-96c3-5679744f262a.mp4",
+    "6": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042827_39ff4f8b-6e49-4abc-8493-d8b562b073db.mp4"
+  },
+  "voices": {
+    "1": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_043142_ffd68609-e447-42cd-a639-8dac499f8d6e.mp3",
+    "2": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042925_2c08c63c-7625-4896-a058-7a11ed9e68fa.mp3",
+    "3": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042925_312e2491-9b2d-492a-99dc-e73f72fd7fa5.mp3",
+    "4": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042925_c76775c7-f8c7-4da2-abb1-44f4af6de1cc.mp3",
+    "5": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_044310_b0edbc72-e338-4135-8627-91a026dfb8f7.mp3",
+    "6": "https://d8j0ntlcm91z4.cloudfront.net/user_3Io638R0WEvciwzGJ2V8Mpl76YU/hf_20260918_042925_2be5babd-6e69-45c4-ac39-6f9f939f1053.mp3"
+  },
+  "lines": {
+    "1": "Tired of tour-grid marketplaces? They bury local hosts like filler while ordinary mass tours fill every crowded row of that endless grid.",
+    "2": "Me-San is Gateway to Local — hotels send warm guests who already trust that hotel brand straight over to you.",
+    "3": "Warm hotel guests already staying in Bangkok reach you, not cold scrollers hunting fake scarcity deals on those tour apps.",
+    "4": "You set rates yourself, get paid only when booked, with fair split when booked — no software fee joining the waitlist.",
+    "5": "Tired of mass tours burying hosts? List food wellness workshops and local area guides on Me-San curated for guests today.",
+    "6": "Join the Me-San host and services waitlist today at me-san.com — be ready when our Gateway to Local goes live."
+  },
+  "upload_url": "https://fast-and-furious-input-prod-20250325165756276100000002.s3.amazonaws.com/user_3Io638R0WEvciwzGJ2V8Mpl76YU/7ce49601-1791-41ca-b3a0-5464607d675c.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAYPNTVMCG44FZTU75%2F20260918%2Feu-north-1%2Fs3%2Faws4_request&X-Amz-Date=20260918T045459Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=content-type%3Bhost&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHIaCmV1LW5vcnRoLTEiSDBGAiEAu%2BFHZO%2BnI74ls%2BOnuj%2FSweoOpPeCvo56hiHuG0gvgQUCIQDWid98MJ2Mtz%2BsLbZgKTANRIELPMbbSo0zQW7SVwf5NyqnBQg7EAAaDDU4Mjg4MTczMDcwMSIMxk1Z5O8sDZ7vcrZoKoQFgkmaDuWxQ3PAgnWW9U4T5MLuw6ftk5ydpG3tuuF%2F7SdzbWLhGqVtZ8LYf88iR4egiolA14uD6xh1z%2B7eNvJbVbbNGh4WgUiip1Ox6hFyBHull8XZn%2BmDHGPM%2FkhsrDg4QuPtFbmo8tR3mUmcjEOaX0fkiRE2JwY5LQZ%2B1PKGFRsjWEvIZ%2FTJd0Tn7JTM40kQ7EZ6xR9jVxhXFflg5TRW5xrfc51NbZUJBG5iM4Led5JCia%2B%2FLI71wC3iIr1JoU952nOeRP2kKy%2FhWdRk%2FFI7uwHZHj8S2DayqHuQJztklPUNiek8SdSk%2FKZwYhG%2F3n0TgC8X5Axg9C7tLyHLIwz2kguj4S4WHAh2JZf%2By1dcCbzPCqfr%2BmYKbuP59oZXnjY4wg2qfT%2FIFyDHAKOGo1DT%2FU2rYcxwmoAA6hOI0tOmBoTvmfg1TnwgZjHpEegd8FGdWqBPTzb6SkEqkEo1%2B%2FSapW819xNn%2B64VnYBLN0ypSGj1jojNQV1CutzLXjc1mTAhesGzGB8NuNnexKiKw9n9Uh3SETOC6lLV0wGoVmVe2U0DcThl2WnCtTyeXUHdvsnUvglEeVSEB53%2FwfW%2F5%2Ban6lvwBFkfcB%2BZhYec721rIYesTJHpOLif48fGg6yXb3ZB6gmSfdpjAJopQ3hH5%2FFZfbQNp72k67UbZf1rfrvMmROAEo9X3aZRSugLdPddbrcg7Z1Z8Y%2Fx%2BvBLrEfy5O6CqfHbwAipHRDLKuZ9zhWu5PLbKK61MlLysrEiQ1ylwFppmMMk4Um3aEBMSgd672iVwDCOYgqv3%2FtXMk11EXeNcXfzdd%2BQgkLbebNN8yUEjqlaaZRsD%2FhmxehF1YyKKxOv95%2FSeaEwvLyy1QY6jwExMdSV%2Fhe4Ve8t6i%2FZ%2FTsTFQrWNZA5W%2FdeBHz1HBsFgSgPyYpmbhqaQDQocWe6zU2CstHwwyem3S4dy1jf%2FJhIPUyB8SHUHQnr%2BL9HbwugDT9Jxj4THeT%2FZrepdpVTLkfcAUgHkg15k844X8RQBLCcz%2BfP8m9whPjp7CXhIHn%2BrQo4UE666%2BtcosTzAdtAOQ%3D%3D&X-Amz-Signature=56a5cd1e15e8d005c2364c3be17bb8fd0ce402e7aac61355097718456e2c73aa",
+  "media_id": "7ce49601-1791-41ca-b3a0-5464607d675c"
+}
